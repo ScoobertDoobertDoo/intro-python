@@ -22,5 +22,16 @@
     * the git status shows current state of git repository
 
     * untracked files means files are recognized but not tracked/stuff being done about files
+    * whenever the file reads under "change is to be commited" then it is committed
 
+
+
+    *  to commmit staged files (the random numbers and letters are commit identifier) and use 
+    git commit -m "message here"
+
+    * git log shows history of commits
+
+    * git branch shows what branch you are in
+
+* git chechout -b (name of branch)     allows you to create new branch and go to new branch in same line
 
