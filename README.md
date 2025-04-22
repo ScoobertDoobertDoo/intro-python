@@ -35,3 +35,8 @@
 
 * git chechout -b (name of branch)     allows you to create new branch and go to new branch in same line
 
+* this can modify files and git will acknowledge the need to commit to history and need to track - to track it 
+
+if done commit then "git log" will show multiple commits and most recent commit will be first, in descending order
+
+* 
