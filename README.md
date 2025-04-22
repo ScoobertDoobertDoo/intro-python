@@ -39,4 +39,4 @@
 
 if done commit then "git log" will show multiple commits and most recent commit will be first, in descending order
 
-* 
+* git checkout     switches between branches and branches will be at different points in history
