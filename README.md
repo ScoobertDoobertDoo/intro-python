@@ -40,3 +40,32 @@
 if done commit then "git log" will show multiple commits and most recent commit will be first, in descending order
 
 * git checkout     switches between branches and branches will be at different points in history
+
+* git merge name of branch        merges what has been commited
+*  git branch -d name of branch     deletes branch
+* git tag -a v1 -m "name of tag"      a is the name of the tag        m is the description of the tag
+
+* 23.04.2025
+
+* idea of project
+
+* dependencies when you make your project use another persons code
+
+ * pip installed with python (old slow clunky)
+ *  UV is the new system that 
+
+ * process was UV entered and then ended the terminal (below secionn)
+
+ * in a terminal a . means a current folder
+
+ * do not commmit .venv
+
+ * commit the uv.lock
+
+ * to tell git to forgot .venv
+
+ * if you want to create a new project in python you type:    uv init nameoffile
+
+ type in name of file or thing in gitignore and git will ignore the folder listed
+
+ * if you click the + in the changes section you are getting ready to comm
