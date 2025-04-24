@@ -68,4 +68,12 @@ if done commit then "git log" will show multiple commits and most recent commit 
 
  type in name of file or thing in gitignore and git will ignore the folder listed
 
- * if you click the + in the changes section you are getting ready to comm
+ * if you click the + in the changes section you are getting ready to commit
+
+ * only if gitignore is done then you can type: git add -A          and it willl commit all
+
+ * to activate a virtual environment you must activate it yourself and memorise    source .venv/bin/activate
+
+ *if you want to double check you type in         which python
+
+ * projects and dependencies, git ignore and vs codes git management and virtual nevironments and demonstrated usnig dependency 
